@@ -1,0 +1,20 @@
+To encipher a message:
+
+1. Enter the passphrase you wish to use to encode the message in the passphrase box.
+	Note: This text can only contain alphabetic characters. There can be no numbers, spaces, or punctuation marks.
+2. Enter the text to encode in the top box, next to the encode button.
+	Note: This text can only contain alphabetic characters. There can be no numbers or punctuation marks. Though spaces are permitted, they will be removed during the encipher process.
+3. Press the encipher button. The enciphered text will appear in the bottom box, next to the decipher button.
+
+To decipher a message:
+
+1. Enter the passphrase used to encode the message in the passphrase box.
+	Note: This text can only contain alphabetic characters. There can be no numbers, spaces, or punctuation marks. 
+2. Enter the text to decode in the bottom box, next to the decode button.
+	Note: This text can only contain alphabetic characters. There can be no numbers or punctuation marks. Though spaces are permitted, they will be removed during the decipher process.
+3. Press the decipher button. The deciphered text will appear in the top box, next to the encipher
+    button. Due to the nature of the cipher, it will not contain any spaces. 
+
+Do not use the same passphrase to encode different messages.
+Sending extremely long messages will reduce the cipher security.
+To ensure complete security, passphrases should be greater than 80 characters long.

@@ -1,0 +1,4 @@
+Solitaire Cipher was designed by Bruce Schneier and featured in Neal Stephenson's novel Cryptonomicon. It is meant to be run using nothing but a deck of cards, making it ideal for use in scenarios where crytographic equiment would be suspicious or illegal. Performing the cipher by hand is slow, and one slip of the deck will render the message unrecoverable. A computer implementation eliminates this issue, at the cost of nullifying the primary strength of the cipher: innocuousness. Oh well.
+
+For more information on the Solitaire Cipher, visit Bruce Schneier's website:
+https://www.schneier.com/solitaire.html
